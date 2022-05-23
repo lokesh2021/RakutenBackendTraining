@@ -1,1 +1,2 @@
-echo "Jenkins Integrated with Github"
+javac HelloWorld.java
+java HelloWorld.java
